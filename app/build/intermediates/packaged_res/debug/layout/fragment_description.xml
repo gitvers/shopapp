@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".SubFragments.DescriptionFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:fontFamily="@font/encode_sans_medium"
+        android:text="Meet our Universal Monsters® x Levi's® collaboration, where icons of horror meet icons of style in an ode to cinematic greatness. Featuring clean lines, sharp graphics and surprise details like glow-in-the-dark designs that come alive at night, this collection celebrates three silver-screen originals that inspired an entire cinematic genre. Finding the perfect pair of jeans can be a process, so it's easy to pine for those jeans you had back in the day—the ones that seemed to fit just right. Inspired by that vintage mindset, our 501® '90s jeans are here, with a midrise that's just loose enough in the leg. The best part? They feature a one-of-a-kind monster mash screenprint design." />
+
+
+</FrameLayout>

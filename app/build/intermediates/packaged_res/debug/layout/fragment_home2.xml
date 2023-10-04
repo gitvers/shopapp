@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubFragments.Home">
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/banner_pager"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_marginTop="@dimen/_10sdp" />
+
+            <com.tbuonomo.viewpagerdotsindicator.WormDotsIndicator
+                android:id="@+id/dot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                app:dotsColor="#9E9E9E"
+                app:dotsSize="@dimen/_7sdp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_150sdp"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:paddingTop="@dimen/_10sdp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/poster" />
+
+            <TextView
+                android:id="@+id/home2_txt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:fontFamily="@font/encode_sans_semibold"
+                android:text="Newly Launched"
+                android:textColor="@color/TextColor"
+                android:textSize="@dimen/_17sdp" />
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/view_pager1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:nestedScrollingEnabled="false"
+                android:paddingStart="@dimen/_50sdp"
+                android:paddingEnd="@dimen/_50sdp" />
+
+            <TextView
+                android:id="@+id/home2_txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:fontFamily="@font/encode_sans_semibold"
+                android:text="Our Exclusives"
+                android:textColor="@color/TextColor"
+                android:textSize="@dimen/_17sdp" />
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/view_pager2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:nestedScrollingEnabled="false"
+                android:paddingStart="@dimen/_50sdp"
+                android:paddingEnd="@dimen/_50sdp" />
+
+
+            <TextView
+                android:id="@+id/home2_txt3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:fontFamily="@font/encode_sans_semibold"
+                android:text="Must Own Designers"
+                android:textColor="@color/TextColor"
+                android:textSize="@dimen/_17sdp" />
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/view_pager3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/_20sdp"
+                android:nestedScrollingEnabled="false"
+                android:paddingStart="@dimen/_50sdp"
+                android:paddingEnd="@dimen/_50sdp" />
+
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</FrameLayout>

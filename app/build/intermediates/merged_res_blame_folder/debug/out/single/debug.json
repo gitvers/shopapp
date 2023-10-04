@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_wishlist.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_wishlist.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable-v24_verticalline.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable-v24/verticalline.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_space_mono.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/space_mono.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_shoppingbag.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/shoppingbag.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_baskettt.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/baskettt.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_marck_script.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/marck_script.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_ranchers.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/ranchers.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_bilbo_swash_caps.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/bilbo_swash_caps.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_blinker_thin.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/blinker_thin.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_funky.jpg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/funky.jpg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shopapp-merged_res-34:/layout_prod_recycler_style.xml.flat",
+        "source": "com.example.shopapp-main-36:/layout/prod_recycler_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_staatliches.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/staatliches.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_new_frag_recycler_style.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/new_frag_recycler_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_slider_banner_pager.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/slider_banner_pager.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_home.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_encode_sans.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/encode_sans.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable-v24_favheart2.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable-v24/favheart2.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/raw_dress.json.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/raw/dress.json"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_aguafina_script.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/aguafina_script.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_men.jpeg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/men.jpeg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_categorylist_style.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/categorylist_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_encode_sans_semibold.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/encode_sans_semibold.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_search.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_profile.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/menu_bottom_menu.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_give_you_glory.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/give_you_glory.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_trending.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_trending.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_love.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/love.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_whatsapp.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/whatsapp.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_passion_one.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/passion_one.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_new_frag_recycle_style.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/new_frag_recycle_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_black_han_sans.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/black_han_sans.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_description.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_description.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_classic.jpg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/classic.jpg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable-v24_whatsappblack.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable-v24/whatsappblack.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_bottomnav_icon.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/bottomnav_icon.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_home.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/home.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_arizonia.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/arizonia.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_activity_splash.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_zcool_kuaile.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/zcool_kuaile.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_sale.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_sale.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_nail.jpg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/nail.jpg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_basket.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/basket.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_new.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_new.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_new_frag_inner_recycle_style.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/new_frag_inner_recycle_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable-v24_poster.jpg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable-v24/poster.jpg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable-v24_banner.jpg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable-v24/banner.jpg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_about.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_btn1_style.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/btn1_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_ubuntu_bold.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/ubuntu_bold.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_baskett.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/baskett.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_women.jpg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/women.jpg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable-v24_favheart.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable-v24/favheart.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_anton.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/anton.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_happy_monkey.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/happy_monkey.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_fragment_home2.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/fragment_home2.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_encode_sans_medium.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/encode_sans_medium.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_prod_recycler_style.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/prod_recycler_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_jolly_lodger.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/jolly_lodger.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_activity_category_inner_product.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/activity_category_inner_product.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_newcollection.jpg.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/newcollection.jpg"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_home2_viewpager_style.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/home2_viewpager_style.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_back_24.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/back_24.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/font_archivo_black.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/font/archivo_black.xml"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_search.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/search.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/drawable_user.png.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/drawable/user.png"
+    },
+    {
+        "merged": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-merged_res-34:/layout_activity_product_description.xml.flat",
+        "source": "/home/jinal/.gradle/daemon/7.4/com.example.shopapp-main-36:/layout/activity_product_description.xml"
+    }
+]

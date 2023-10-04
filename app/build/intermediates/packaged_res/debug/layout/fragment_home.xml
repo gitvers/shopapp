@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:background="@color/white"
+            android:elevation="@dimen/_4sdp">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="@dimen/_35sdp"
+                android:layout_height="@dimen/_35sdp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:src="@drawable/baskettt" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/_7sdp"
+                android:layout_toEndOf="@id/image"
+                android:fontFamily="@font/passion_one"
+                android:gravity="center"
+                android:text="ShopVilla"
+                android:textColor="#F49A00"
+                android:textSize="@dimen/_20sdp" />
+
+            <ImageView
+                android:id="@+id/whatsapp_btn"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:layout_centerInParent="true"
+                android:layout_marginEnd="@dimen/_12sdp"
+                android:layout_toStartOf="@id/cart"
+                android:src="@drawable/whatsapp" />
+
+            <ImageView
+                android:id="@+id/cart"
+                android:layout_width="@dimen/_19sdp"
+                android:layout_height="@dimen/_19sdp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerInParent="true"
+                android:layout_marginEnd="@dimen/_14sdp"
+                android:src="@drawable/shoppingbag"
+                app:tint="@color/TextColor" />
+
+        </RelativeLayout>
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabIndicatorColor="#F49A00"
+            app:tabSelectedTextColor="@color/black"
+            app:tabTextColor="#BDBDBD" />
+
+        <com.example.shopapp.CustomViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+    </LinearLayout>
+
+</FrameLayout>
